@@ -83,10 +83,10 @@ body {
 }
 
 .profile-picture {
-    width: 180px; /* Increased size */
-    height: 180px; /* Increased size */
+    width: 200px; /* Increased size */
+    height: 200px; /* Increased size */
     border-radius: 50%;
-    border: 5px solid #ffffff; /* Changed border to white */
+    border: 3px solid #ffffff; /* Thinner white border */
     object-fit: cover;
     margin-bottom: 20px;
     box-shadow: 0 4px 10px rgba(0,0,0,0.4);
